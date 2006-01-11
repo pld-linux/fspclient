@@ -2,12 +2,12 @@
 Summary:	FSP client
 Summary(pl):	Program klienta dla protoko³u FSP
 Name:		fspclient
-Version:	0.90.0
+Version:	0.91.0
 Release:	1
 License:	BSD-like
 Group:		Applications/Networking
 Source0:	http://dl.sourceforge.net/fspclient/%{name}-%{version}.tar.bz2
-# Source0-md5:	554cec4b3a409415e307ba7f3eed857a
+# Source0-md5:	58d196e1e8e4656be15d2ad7fb8bbf7d
 URL:		http://fspclient.sourceforge.net/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
