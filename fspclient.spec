@@ -1,6 +1,6 @@
 # TODO: longer description
 Summary:	FSP client
-Summary(pl):	Program klienta dla protoko≥u FSP
+Summary(pl.UTF-8):   Program klienta dla protoko≈Çu FSP
 Name:		fspclient
 Version:	0.91.0
 Release:	1
@@ -14,8 +14,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 FSP protocol client.
 
-%description -l pl
-Program dla klienta protoko≥u FSP.
+%description -l pl.UTF-8
+Program dla klienta protoko≈Çu FSP.
 
 %prep
 %setup -q
