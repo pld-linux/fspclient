@@ -1,6 +1,6 @@
 # TODO: longer description
 Summary:	FSP client
-Summary(pl.UTF-8):   Program klienta dla protokołu FSP
+Summary(pl.UTF-8):	Program klienta dla protokołu FSP
 Name:		fspclient
 Version:	0.91.0
 Release:	1
